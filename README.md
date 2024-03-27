@@ -21,6 +21,8 @@ Panel is mostly textured, fuselage also, but the UV Map of the fuselage will cha
 Yokes can be hidden.
 
 To-do:
+Get the G1000 on the right busses so you don't have to click twice to let X-Plane start.
+Let all CBPanel switches work so you don't have to start with Ctrl+Shift+E (or another key if you changed the standard start key of X-plane)
 Pedestral animations
 All the missing panel animations
 CBPanel animations.
@@ -35,6 +37,8 @@ G1000 animations
 Blender lightning for the exterior, cabin and flightdeck.
 A few instruments and buttons/switches ar missing like the clock, hobbsmeter and Lightning brightness switches.
 A menu like the Metroliner for weight and balance, changing liveries and versions without leaving the sim.
+Add a Avitab tablet
+Look into Skunkcraft updater so you don't have to follow this Github and get automatic updates.
 More things.
 
 If you want to help:
