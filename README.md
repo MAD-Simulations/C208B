@@ -21,7 +21,7 @@ Panel is mostly textured, fuselage also, but the UV Map of the fuselage will cha
 Yokes can be hidden.
 
 To-do:
-Get the G1000 on the right busses so you don't have to click twice to let X-Plane start.
+Solved with hotfix, have to look in permanent solution. Get the G1000 on the right busses so you don't have to click twice to let X-Plane start.
 Let all CBPanel switches work so you don't have to start with Ctrl+Shift+E (or another key if you changed the standard start key of X-plane)
 Pedestral animations
 All the missing panel animations
