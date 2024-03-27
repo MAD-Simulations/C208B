@@ -19190,8 +19190,7 @@ IDX	17423
 	ATTR_cockpit_device	G1000_PFD1 3 1 1 #<device name> <bus: 1,2,4,8,16,32> <rehostat> <auto adjusts or not>
 	ATTR_cockpit_device	G1000_PFD2	1	0	1
 	TRIS	30 24
-	ATTR_cockpit_device	G1000_MFD 1 1 1 #<device name> <bus: 1,2,4,8,16,32> <rehostat> <auto adjusts or not>
-	ATTR_cockpit_device	G1000_MFD	10	0	1
+	ATTR_cockpit_device	G1000_MFD	11	0	1
 	TRIS	54 24
 	ATTR_draw_disable
 	ATTR_no_cockpit
