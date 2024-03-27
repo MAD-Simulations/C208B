@@ -42,5 +42,5 @@ Look into Skunkcraft updater so you don't have to follow this Github and get aut
 More things.
 
 If you want to help:
-I'm not the most experienced flight model developer. If somebody wan't to tweak it and get it included, let me know, more than welcome.
+I'm not the most experienced flight model developer for Turboprop engines. If somebody wan't to tweak it and get it included, let me know, more than welcome.
 If you want to help on another field, let me know. 
