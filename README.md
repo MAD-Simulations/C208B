@@ -18,7 +18,7 @@ Alternate air, Pitot heat and Stall heat work.
 Analog instruments work (except Torque).
 Yokes work and animated, Rudder pedals also animated.
 Panel is mostly textured, fuselage also, but the UV Map of the fuselage will change.
-There are a few livery's.
+Yokes can be hidden.
 
 To-do:
 Pedestral animations
