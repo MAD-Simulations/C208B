@@ -33,6 +33,7 @@ Gear animations, only the wheels are roling at the moment but not yet turning an
 All externel wing animations.
 G1000 animations
 Blender lightning for the exterior, cabin and flightdeck.
+A few instruments and buttons/switches ar missing like the clock, hobbsmeter and Lightning brightness switches.
 A menu like the Metroliner for weight and balance, changing liveries and versions without leaving the sim.
 More things.
 
