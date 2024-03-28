@@ -12123,17 +12123,6 @@ IDX	11003
 	TRIS	2652 1320
 	ANIM_begin
 	ANIM_trans_begin	sim/cockpit2/controls/yoke_heading_ratio
-	ANIM_trans_key	0	-0.51222998	-0.41157001	-3.57939
-	ANIM_trans_key	-1	-0.51222998	-0.41157001	-3.651
-	ANIM_trans_key	1	-0.51222998	-0.41157001	-3.49037
-	ANIM_trans_end
-		TRIS	3972 1386
-		TRIS	5358 1386
-		TRIS	9516 372
-		TRIS	9888 372
-	ANIM_end
-	ANIM_begin
-	ANIM_trans_begin	sim/cockpit2/controls/yoke_heading_ratio
 	ANIM_trans_key	0	0.50980997	-0.41242	-3.5757501
 	ANIM_trans_key	1	0.50980997	-0.41242	-3.65505
 	ANIM_trans_key	-1	0.50980997	-0.41242	-3.4946899
@@ -12142,6 +12131,17 @@ IDX	11003
 		TRIS	8130 1386
 		TRIS	10260 372
 		TRIS	10632 372
+	ANIM_end
+	ANIM_begin
+	ANIM_trans_begin	sim/cockpit2/controls/yoke_heading_ratio
+	ANIM_trans_key	0	-0.51222998	-0.41157001	-3.57939
+	ANIM_trans_key	-1	-0.51222998	-0.41157001	-3.651
+	ANIM_trans_key	1	-0.51222998	-0.41157001	-3.49037
+	ANIM_trans_end
+		TRIS	3972 1386
+		TRIS	5358 1386
+		TRIS	9516 372
+		TRIS	9888 372
 	ANIM_end
 
 # Build with Blender 2.83.20 (build b'a56e2faeb7a9'). Exported with XPlane2Blender 4.2.0-rc.3+117.20230225221007
