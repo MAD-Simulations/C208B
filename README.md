@@ -4,6 +4,7 @@ The project is GNU GPL v2 Licensed.
 
 Versions:
 The Passenger version with Digital Panel (G1000) without cargopod for 2 Pilots and 8 pax is the first version.
+There is also a Passenger version with Cargopod included.
 There will be a cargo version with cargo in/exterior, 3d model is already done.
 There will be a analog panel for the fans of older instruments.
 Maybe if enough people want it I'll also build a floats version.
