@@ -13,7 +13,7 @@ The aircraft is flyable, the flightmodel works.
 The PFD and MFD of the G1000 are clickble on the screens so you can use them. Not yet animated the buttons.
 Light switches work
 Pitch Trim wheel works.
-Aileron trim knob works but not yet animated
+Pedestral trim/throttle levers work
 Alternate air, Pitot heat and Stall heat work.
 Analog instruments work (except Torque).
 Yokes work and animated, Rudder pedals also animated.
@@ -21,23 +21,21 @@ Panel is mostly textured, fuselage also, but the UV Map of the fuselage will cha
 Yokes can be hidden.
 
 To-do:
-Solved with hotfix, have to look in permanent solution. Get the G1000 on the right busses so you don't have to click twice to let X-Plane start.
+
 Let all CBPanel switches work so you don't have to start with Ctrl+Shift+E (or another key if you changed the standard start key of X-plane)
-Pedestral animations
 All the missing panel animations
 CBPanel animations.
-Overhead animations
+Overhead fuel lever animations
 Door animations
 Panel on the right side in the footbay is missing.
 Texturework for the interior. 
 Details on the fuselage are missing and will be added, also a better UV map will be added.
 Gear animations, only the wheels are roling at the moment but not yet turning and the strut is also not yet working.
-All externel wing animations.
-G1000 animations
+External flap and trim animations animations.
+G1000 animations, but will first build the original autopilot deck for the 208 and then de right G1000 bezels, after that the animations.
 Blender lightning for the exterior, cabin and flightdeck.
-A few instruments and buttons/switches ar missing like the clock, hobbsmeter and Lightning brightness switches.
+A few instruments and buttons/switches ar missing like the clock, hobbsmeter, Adf and Lightning brightness switches.
 A menu like the Metroliner for weight and balance, changing liveries and versions without leaving the sim.
-Add a Avitab tablet
 Look into Skunkcraft updater so you don't have to follow this Github and get automatic updates.
 More things.
 
