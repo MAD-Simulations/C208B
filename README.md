@@ -28,13 +28,12 @@ All the missing panel animations
 CBPanel animations.
 Overhead fuel lever animations
 Door animations
-Panel on the right side in the footbay is missing.
 Texturework for the interior. 
 Details on the fuselage are missing and will be added, also a better UV map will be added.
 Gear animations, only the wheels are roling at the moment but not yet turning and the strut is also not yet working.
-External flap and trim animations animations.
+External trim animations animations.
 G1000 animations, but will first build the original autopilot deck for the 208 and then de right G1000 bezels, after that the animations.
-Blender lightning for the exterior, cabin and flightdeck.
+Blender lights for the cabin.
 A few instruments and buttons/switches ar missing like the clock, hobbsmeter, Adf and Lightning brightness switches.
 A menu like the Metroliner for weight and balance, changing liveries and versions without leaving the sim.
 Look into Skunkcraft updater so you don't have to follow this Github and get automatic updates.
