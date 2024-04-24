@@ -1,11 +1,11 @@
 This is the repository for a Cessna 208B Grand Caravan for X-Plane 12.
-The project is in Alpha fase, the aircraft is flyable but allot is not yet done. Updates will be posted on this Github Page. 
+The project is in Pre release fase, the aircraft is flyable but allot is not yet done. Updates will be posted on this Github Page. 
 The project is GNU GPL v2 Licensed. 
 
 Versions:
 The Passenger version with Digital Panel (G1000) without cargopod for 2 Pilots and 8 pax is the first version.
 There is also a Passenger version with Cargopod included.
-There will be a cargo version with cargo in/exterior, 3d model is already done.
+There is a cargo version with cargo in/exterior and cargo in the back.
 There will be a analog panel for the fans of older instruments.
 Maybe if enough people want it I'll also build a floats version.
 
@@ -18,7 +18,7 @@ Pedestral trim/throttle levers work
 Alternate air, Pitot heat and Stall heat work.
 Analog instruments work (except Torque).
 Yokes work and animated, Rudder pedals also animated.
-Panel is mostly textured, fuselage also, but the UV Map of the fuselage will change.
+Panel is mostly textured, fuselage also.
 Yokes can be hidden.
 
 To-do:
@@ -29,16 +29,11 @@ CBPanel animations.
 Overhead fuel lever animations
 Door animations
 Texturework for the interior. 
-Details on the fuselage are missing and will be added, also a better UV map will be added.
-Gear animations, only the wheels are roling at the moment but not yet turning and the strut is also not yet working.
+Gear animations, only the wheels are roling and turning at the moment, the strut is also not yet working.
 External trim animations animations.
-G1000 animations, but will first build the original autopilot deck for the 208 and then de right G1000 bezels, after that the animations.
-Blender lights for the cabin.
 A few instruments and buttons/switches ar missing like the clock, hobbsmeter, Adf and Lightning brightness switches.
-A menu like the Metroliner for weight and balance, changing liveries and versions without leaving the sim.
+A EFB with menu for weight and balance, changing liveries, going to Avitab and select different versions without leaving the sim.
 Look into Skunkcraft updater so you don't have to follow this Github and get automatic updates.
 More things.
 
-If you want to help:
-I'm not the most experienced flight model developer for Turboprop engines. If somebody wan't to tweak it and get it included, let me know, more than welcome.
-If you want to help on another field, let me know. 
+If you want to help let us know, we like working together with talented individuals or other groups.
