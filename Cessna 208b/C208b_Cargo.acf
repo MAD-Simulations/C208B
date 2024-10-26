@@ -11082,9 +11082,9 @@ P _obja/26/_v10_att_y_acf_prt_ref 0.000000000
 P _obja/26/_v10_att_z_acf_prt_ref 0.000000000
 P _obja/26/_v10_is_internal 0
 P _obja/26/_v10_steers_with_gear 0
-P _obja/27/_obj_flags 9
+P _obja/27/_obj_flags 6173
 P _obja/27/_v10_att_body -1
-P _obja/27/_v10_att_file_stl CargoDetails.obj
+P _obja/27/_v10_att_file_stl ../C208B_Cockpit.obj
 P _obja/27/_v10_att_gear -1
 P _obja/27/_v10_att_phi_ref 0.000000000
 P _obja/27/_v10_att_psi_ref 0.000000000
@@ -11095,9 +11095,9 @@ P _obja/27/_v10_att_y_acf_prt_ref 0.000000000
 P _obja/27/_v10_att_z_acf_prt_ref 0.000000000
 P _obja/27/_v10_is_internal 0
 P _obja/27/_v10_steers_with_gear 0
-P _obja/28/_obj_flags 6173
+P _obja/28/_obj_flags 9
 P _obja/28/_v10_att_body -1
-P _obja/28/_v10_att_file_stl ../C208B_Cockpit.obj
+P _obja/28/_v10_att_file_stl CargoDetails.obj
 P _obja/28/_v10_att_gear -1
 P _obja/28/_v10_att_phi_ref 0.000000000
 P _obja/28/_v10_att_psi_ref 0.000000000
@@ -11108,6 +11108,19 @@ P _obja/28/_v10_att_y_acf_prt_ref 0.000000000
 P _obja/28/_v10_att_z_acf_prt_ref 0.000000000
 P _obja/28/_v10_is_internal 0
 P _obja/28/_v10_steers_with_gear 0
+P _obja/29/_obj_flags 9
+P _obja/29/_v10_att_body -1
+P _obja/29/_v10_att_file_stl Ladder.obj
+P _obja/29/_v10_att_gear -1
+P _obja/29/_v10_att_phi_ref 0.000000000
+P _obja/29/_v10_att_psi_ref 0.000000000
+P _obja/29/_v10_att_the_ref 0.000000000
+P _obja/29/_v10_att_wing -1
+P _obja/29/_v10_att_x_acf_prt_ref 0.000000000
+P _obja/29/_v10_att_y_acf_prt_ref 0.000000000
+P _obja/29/_v10_att_z_acf_prt_ref 0.000000000
+P _obja/29/_v10_is_internal 0
+P _obja/29/_v10_steers_with_gear 0
 P _obja/3/_obj_flags 9
 P _obja/3/_v10_att_body -1
 P _obja/3/_v10_att_file_stl Interior_Cargo.obj
@@ -11199,7 +11212,7 @@ P _obja/9/_v10_att_y_acf_prt_ref 0.000000000
 P _obja/9/_v10_att_z_acf_prt_ref 0.000000000
 P _obja/9/_v10_is_internal 0
 P _obja/9/_v10_steers_with_gear 0
-P _obja/count 29
+P _obja/count 30
 P _prop/0/_des_AOA_pwr 1.000000000
 P _prop/0/_des_AOA_root 0.000000000
 P _prop/0/_des_AOA_tip 0.000000000
@@ -26210,6 +26223,7 @@ P acf/_APU_ff_kgh 0.000000000
 P acf/_APU_fuel_src 0
 P acf/_APU_spooldn_time 15.000000000
 P acf/_APU_spoolup_time 15.000000000
+P acf/_AP_overspeed_prot 1
 P acf/_AShi_alpha_k 0.000000000
 P acf/_AShi_alpha_sec 0.000000000
 P acf/_AShi_beta_k 0.000000000
@@ -26245,6 +26259,7 @@ P acf/_EFIS_camera_xyz/1 0.000000000
 P acf/_EFIS_camera_xyz/2 0.000000000
 P acf/_EFIS_camera_xyz/count 3
 P acf/_EGT_is_C 1
+P acf/_ESP_stall_discrete 1
 P acf/_FBWL 0.000000000
 P acf/_FBWVco 0.000000000
 P acf/_FBW_apply_P_to_engine/0 0
@@ -27991,9 +28006,10 @@ P acf/_cus_rnd_use/9 1
 P acf/_cus_rnd_use/count 50
 P acf/_custom_autopilot 0
 P acf/_custom_govnr 0
-P acf/_cyclic_def_ailn 0.000000000
 P acf/_cyclic_def_elev_aft 0.000000000
 P acf/_cyclic_def_elev_fwd 0.000000000
+P acf/_cyclic_def_roll_lft 0.000000000
+P acf/_cyclic_def_roll_rgt 0.000000000
 P acf/_cyclic_dn_trim_rat 0.000000000
 P acf/_cyclic_lf_trim_rat 0.000000000
 P acf/_cyclic_rt_trim_rat 0.000000000
@@ -28117,6 +28133,7 @@ P acf/_esys_amperage/rel_bus2 0.000000000
 P acf/_esys_amperage/rel_bus3 0.000000000
 P acf/_esys_amperage/rel_bus4 0.000000000
 P acf/_esys_amperage/rel_bus5 0.000000000
+P acf/_esys_amperage/rel_clutch 0.000000000
 P acf/_esys_amperage/rel_cop_AOA 0.000000000
 P acf/_esys_amperage/rel_cop_radalt 0.000000000
 P acf/_esys_amperage/rel_cop_tsi 0.000000000
@@ -28215,6 +28232,8 @@ P acf/_esys_amperage/rel_navcom1 1.000000000
 P acf/_esys_amperage/rel_navcom2 1.000000000
 P acf/_esys_amperage/rel_pil_radalt 0.000000000
 P acf/_esys_amperage/rel_pil_tsi 0.000000000
+P acf/_esys_amperage/rel_rpm_ind_0 0.000000000
+P acf/_esys_amperage/rel_rpm_ind_1 0.000000000
 P acf/_esys_amperage/rel_rud_trim 0.200000003
 P acf/_esys_amperage/rel_servo_thro 0.000000000
 P acf/_esys_amperage/rel_slats 0.000000000
@@ -28247,6 +28266,7 @@ P acf/_esys_bus_bit_add/rel_bus2 0
 P acf/_esys_bus_bit_add/rel_bus3 0
 P acf/_esys_bus_bit_add/rel_bus4 0
 P acf/_esys_bus_bit_add/rel_bus5 0
+P acf/_esys_bus_bit_add/rel_clutch 0
 P acf/_esys_bus_bit_add/rel_cop_AOA 0
 P acf/_esys_bus_bit_add/rel_cop_radalt 0
 P acf/_esys_bus_bit_add/rel_cop_tsi 0
@@ -28345,6 +28365,8 @@ P acf/_esys_bus_bit_add/rel_navcom1 3
 P acf/_esys_bus_bit_add/rel_navcom2 3
 P acf/_esys_bus_bit_add/rel_pil_radalt 0
 P acf/_esys_bus_bit_add/rel_pil_tsi 0
+P acf/_esys_bus_bit_add/rel_rpm_ind_0 0
+P acf/_esys_bus_bit_add/rel_rpm_ind_1 0
 P acf/_esys_bus_bit_add/rel_rud_trim 1
 P acf/_esys_bus_bit_add/rel_servo_thro 0
 P acf/_esys_bus_bit_add/rel_slats 0
@@ -28380,6 +28402,7 @@ P acf/_fadec_tla/2 0.000000000
 P acf/_fadec_tla/count 3
 P acf/_fan_rpm_for_n1_100 0.000000000
 P acf/_fbrk_on_td_EQ 0
+P acf/_fbrk_rto_vind 0.000000000
 P acf/_fdir_needed_to_engage_servo 0
 P acf/_feather_on_engn_fail_EQ 1
 P acf/_feather_on_mixt_pull_EQ 0
@@ -28389,7 +28412,7 @@ P acf/_feathered_pitch 88.000000000
 P acf/_ff_rat_idle_JET 0.100000001
 P acf/_ff_rat_idle_PRP 0.100000001
 P acf/_ff_rat_idle_turbo 0.100000001
-P acf/_file_writer_version 120907
+P acf/_file_writer_version 121212
 P acf/_fixed_max/0 0.000000000
 P acf/_fixed_max/1 0.000000000
 P acf/_fixed_max/2 0.000000000
@@ -28498,6 +28521,8 @@ P acf/_flap_ret_time 5.000000000
 P acf/_flap_retract_protect 0
 P acf/_flap_speed_rat_at_0 1.000000000
 P acf/_flaps_are_infinite 0
+P acf/_flaps_dial_a_flap 0
+P acf/_flaps_johnson_bar 0
 P acf/_flaps_with_gear_EQ 0
 P acf/_flaps_with_stall_rat_0 0.000000000
 P acf/_flaps_with_stall_rat_1 0.000000000
@@ -28846,6 +28871,7 @@ P acf/_max_CHT 500.000000000
 P acf/_max_EGT 1450.000000000
 P acf/_max_ITT 764.750000000
 P acf/_max_MP_limit 29.920000076
+P acf/_max_atc_alt_ft 0.000000000
 P acf/_max_bat_amp 60.000000000
 P acf/_max_bat_temp 60.000000000
 P acf/_max_gen_amp0 60.000000000
@@ -28874,6 +28900,8 @@ P acf/_max_stator 100.000000000
 P acf/_max_vac 8.000000000
 P acf/_max_xmsn_P 1.000000000
 P acf/_max_xmsn_T 1.000000000
+P acf/_min_N1_turboprop_governor 0.000000000
+P acf/_min_N2_jet_governor 0.000000000
 P acf/_min_n1 10.000000000
 P acf/_min_n2_EGT 40.000000000
 P acf/_min_n2_ITT 40.000000000
@@ -28887,11 +28915,13 @@ P acf/_n2_power_curve 3.500000000
 P acf/_name C208B Grand Caravan Cargo
 P acf/_new_plot_XP3D_cock/0 0
 P acf/_new_plot_outer_acf/0 1
+P acf/_no_default_contact_fx 0
 P acf/_no_default_engine_fx 0
 P acf/_no_default_gear_fx 0
 P acf/_no_default_gun_fx 0
 P acf/_no_default_jato_fx 0
 P acf/_no_default_wash_fx 0
+P acf/_no_default_water_fx 0
 P acf/_no_default_wing_fx 0
 P acf/_no_hydro_force_mult_brakes 1.000000000
 P acf/_no_hydro_force_mult_flcons 1.000000000
@@ -29491,7 +29521,6 @@ P acf/_wheel_s2 0.360000014
 P acf/_wheel_t1 0.150999993
 P acf/_wheel_t2 0.239999995
 P acf/_windshield_eff_factor 1.000000000
-P acf/_windshield_scratchy 0
 P acf/_wing_damp_rat 2.000000000
 P acf/_wing_frac_fuel 0.500000000
 P acf/_wing_frac_mass 0.250000000
